@@ -1,1 +1,1 @@
-"Файл для першої г?лки" 
+Information about the lab 
