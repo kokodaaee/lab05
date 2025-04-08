@@ -1,1 +1,1 @@
-"Файл для першої г?лки" 
+File for first branch 
